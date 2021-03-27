@@ -6,3 +6,5 @@ This project:
 The power function can be used by researchers to conduct power simulations for their laboratory tasks.
 
 Here is the publication: https://www.sciencedirect.com/science/article/abs/pii/S0167876019304726
+
+![image](https://user-images.githubusercontent.com/16738116/112729529-ec2cd600-8f02-11eb-8f24-bbbe665cb5c6.png)
